@@ -1,0 +1,20 @@
+# normal
+# -------------------------
+'atom-text-editor.vim-mode-plus.normal-mode':
+  'y s': 'vim-mode-plus:surround'
+
+  'd s': 'vim-mode-plus:delete-surround-any-pair'
+  'd S': 'vim-mode-plus:delete-surround'
+
+  'c s': 'vim-mode-plus:change-surround-any-pair'
+  'c S': 'vim-mode-plus:change-surround'
+
+# operator-pending only when surround-pending
+# -------------------------
+'atom-text-editor.vim-mode-plus.operator-pending-mode.surround-pending':
+  's': 'vim-mode-plus:inner-current-line'
+
+# visual
+# -------------------------
+'atom-text-editor.vim-mode-plus.visual-mode':
+  'S': 'vim-mode-plus:surround'
