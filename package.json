@@ -2,7 +2,7 @@
   "name": "vim-mode-plus-keymaps-for-surround",
   "main": "./lib/main",
   "version": "0.1.0",
-  "description": "Provides default keymap for surround",
+  "description": "Provides default keymap for surround(keymap only)",
   "keywords": [],
   "repository": "https://github.com/t9md/atom-vim-mode-plus-keymaps-for-surround",
   "license": "MIT",
