@@ -1,6 +1,6 @@
 # Whats' this?
 
-:rotating_light: *** This package provide keymaps only. surround feature itself is provided by vim-mode-plus itself. ***  
+:rotating_light: ***This package provide keymaps only. surround feature itself is provided by vim-mode-plus itself.***  
 
 Provides default surround keymaps for [vim-mode-plus](https://atom.io/packages/vim-mode-plus).
 
