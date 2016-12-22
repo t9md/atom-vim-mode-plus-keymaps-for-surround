@@ -16,5 +16,5 @@
 
 # visual
 # -------------------------
-'atom-text-editor.vim-mode-plus.visual-mode':
+'atom-text-editor.vim-mode-plus.visual-mode:not(.insert-mode)':
   'S': 'vim-mode-plus:surround'
